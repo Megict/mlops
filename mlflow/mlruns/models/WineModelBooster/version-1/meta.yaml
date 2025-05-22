@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746531376269
+current_stage: None
+description: null
+last_updated_timestamp: 1746531376269
+name: WineModelBooster
+run_id: 415081a0defb440d992c374e0763eb98
+run_link: null
+source: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/415081a0defb440d992c374e0763eb98/artifacts/booster
+status: READY
+status_message: null
+storage_location: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/415081a0defb440d992c374e0763eb98/artifacts/booster
+user_id: null
+version: 1

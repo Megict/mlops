@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/0f2b7b24841040ed9efa23247a32cd89/artifacts
+deleted_time: 1746530436154
+end_time: 1746529694045
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: deleted
+run_id: 0f2b7b24841040ed9efa23247a32cd89
+run_name: judicious-goat-319
+run_uuid: 0f2b7b24841040ed9efa23247a32cd89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746529693942
+status: 4
+tags: []
+user_id: max

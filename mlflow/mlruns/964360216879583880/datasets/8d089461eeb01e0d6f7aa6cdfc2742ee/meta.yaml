@@ -1,0 +1,16 @@
+digest: 6ae796d0
+name: dataset
+profile: '{"num_rows": 11, "num_elements": 143}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "alcohol", "required": true},
+  {"type": "double", "name": "malic_acid", "required": true}, {"type": "double", "name":
+  "ash", "required": true}, {"type": "double", "name": "alcalinity_of_ash", "required":
+  true}, {"type": "double", "name": "magnesium", "required": true}, {"type": "double",
+  "name": "total_phenols", "required": true}, {"type": "double", "name": "flavanoids",
+  "required": true}, {"type": "double", "name": "nonflavanoid_phenols", "required":
+  true}, {"type": "double", "name": "proanthocyanins", "required": true}, {"type":
+  "double", "name": "color_intensity", "required": true}, {"type": "double", "name":
+  "hue", "required": true}, {"type": "double", "name": "od280/od315_of_diluted_wines",
+  "required": true}, {"type": "double", "name": "proline", "required": true}]}'
+source: '{"tags": {"mlflow.user": "max", "mlflow.source.name": "model_train.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

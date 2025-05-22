@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/d2cf94031344402196200346a3a62c47/artifacts
+end_time: 1746530317232
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: active
+run_id: d2cf94031344402196200346a3a62c47
+run_name: kindly-wren-634
+run_uuid: d2cf94031344402196200346a3a62c47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746530313216
+status: 3
+tags: []
+user_id: max

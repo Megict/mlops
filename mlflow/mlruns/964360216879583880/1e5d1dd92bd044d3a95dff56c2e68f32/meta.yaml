@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/1e5d1dd92bd044d3a95dff56c2e68f32/artifacts
+deleted_time: 1746530436152
+end_time: 1746529997338
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: deleted
+run_id: 1e5d1dd92bd044d3a95dff56c2e68f32
+run_name: sedate-steed-752
+run_uuid: 1e5d1dd92bd044d3a95dff56c2e68f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746529995196
+status: 4
+tags: []
+user_id: max

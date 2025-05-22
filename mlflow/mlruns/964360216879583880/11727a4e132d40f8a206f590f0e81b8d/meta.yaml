@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/11727a4e132d40f8a206f590f0e81b8d/artifacts
+end_time: 1746530329012
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: active
+run_id: 11727a4e132d40f8a206f590f0e81b8d
+run_name: upbeat-crab-416
+run_uuid: 11727a4e132d40f8a206f590f0e81b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746530326024
+status: 3
+tags: []
+user_id: max

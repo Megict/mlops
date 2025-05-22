@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/2ca4932eca504294837f17db702ced03/artifacts
+end_time: 1746530340213
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: active
+run_id: 2ca4932eca504294837f17db702ced03
+run_name: skillful-elk-282
+run_uuid: 2ca4932eca504294837f17db702ced03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746530336718
+status: 3
+tags: []
+user_id: max

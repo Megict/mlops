@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/0/ebb70594e1f74007bc772641dddae627/artifacts
+end_time: 1746032738289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebb70594e1f74007bc772641dddae627
+run_name: bold-elk-468
+run_uuid: ebb70594e1f74007bc772641dddae627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746032730554
+status: 3
+tags: []
+user_id: max

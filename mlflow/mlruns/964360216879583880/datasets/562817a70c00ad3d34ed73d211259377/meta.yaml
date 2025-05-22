@@ -1,0 +1,8 @@
+digest: cbb98978
+name: test
+profile: '{"features_shape": [54, 13], "features_size": 702, "features_nbytes": 2808}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 13]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "max", "mlflow.source.name": "model_train.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

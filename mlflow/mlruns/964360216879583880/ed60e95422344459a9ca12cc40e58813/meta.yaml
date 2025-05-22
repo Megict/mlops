@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/ed60e95422344459a9ca12cc40e58813/artifacts
+deleted_time: 1746530391104
+end_time: 1746529997789
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: deleted
+run_id: ed60e95422344459a9ca12cc40e58813
+run_name: Hyperparameters_Search
+run_uuid: ed60e95422344459a9ca12cc40e58813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746529991158
+status: 4
+tags: []
+user_id: max

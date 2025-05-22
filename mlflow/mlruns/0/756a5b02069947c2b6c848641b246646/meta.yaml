@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/0/756a5b02069947c2b6c848641b246646/artifacts
+end_time: 1746032700979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 756a5b02069947c2b6c848641b246646
+run_name: upbeat-pig-547
+run_uuid: 756a5b02069947c2b6c848641b246646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746032693346
+status: 3
+tags: []
+user_id: max

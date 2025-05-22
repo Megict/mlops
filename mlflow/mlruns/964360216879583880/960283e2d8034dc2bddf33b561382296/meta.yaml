@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/960283e2d8034dc2bddf33b561382296/artifacts
+end_time: 1746530319970
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: active
+run_id: 960283e2d8034dc2bddf33b561382296
+run_name: industrious-flea-452
+run_uuid: 960283e2d8034dc2bddf33b561382296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746530317254
+status: 3
+tags: []
+user_id: max

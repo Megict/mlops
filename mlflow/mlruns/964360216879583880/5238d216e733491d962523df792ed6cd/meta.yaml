@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/5238d216e733491d962523df792ed6cd/artifacts
+deleted_time: 1746530436163
+end_time: 1746529611178
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: deleted
+run_id: 5238d216e733491d962523df792ed6cd
+run_name: nebulous-lynx-149
+run_uuid: 5238d216e733491d962523df792ed6cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746529611069
+status: 4
+tags: []
+user_id: max

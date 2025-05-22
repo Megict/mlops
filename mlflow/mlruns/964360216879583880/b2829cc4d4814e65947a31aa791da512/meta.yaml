@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/b2829cc4d4814e65947a31aa791da512/artifacts
+deleted_time: 1746528461665
+end_time: 1746528270872
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: deleted
+run_id: b2829cc4d4814e65947a31aa791da512
+run_name: Data_Preprocessing
+run_uuid: b2829cc4d4814e65947a31aa791da512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746528267140
+status: 4
+tags: []
+user_id: max

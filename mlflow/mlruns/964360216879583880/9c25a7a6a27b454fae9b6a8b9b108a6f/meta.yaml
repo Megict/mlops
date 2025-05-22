@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/9c25a7a6a27b454fae9b6a8b9b108a6f/artifacts
+end_time: 1746530336697
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: active
+run_id: 9c25a7a6a27b454fae9b6a8b9b108a6f
+run_name: omniscient-foal-1
+run_uuid: 9c25a7a6a27b454fae9b6a8b9b108a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746530333459
+status: 3
+tags: []
+user_id: max

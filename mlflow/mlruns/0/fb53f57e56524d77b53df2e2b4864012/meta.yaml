@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/0/fb53f57e56524d77b53df2e2b4864012/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb53f57e56524d77b53df2e2b4864012
+run_name: auspicious-shoat-268
+run_uuid: fb53f57e56524d77b53df2e2b4864012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746031763725
+status: 1
+tags: []
+user_id: max

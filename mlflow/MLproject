@@ -1,0 +1,15 @@
+name: MLflow_project
+
+python_env: python_env.yaml
+
+entry_points:
+  data-preprocessing:
+    parameters:
+      test-size: {type: float, default: 0.2}
+    command: "python data_processing.py --test-size {test-size}"
+  hyperparameters-tuning:
+    parameters:
+      n-trials: {type: int, default: 10}
+    command: "python hyperparam_search.py --n-trials {n-trials}"
+  model-training:
+    command: "python model_train.py"

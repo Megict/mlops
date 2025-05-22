@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/10524fed31444a008965e96c09e355b4/artifacts
+deleted_time: 1746530436155
+end_time: 1746529817990
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: deleted
+run_id: 10524fed31444a008965e96c09e355b4
+run_name: omniscient-gnu-125
+run_uuid: 10524fed31444a008965e96c09e355b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746529813716
+status: 4
+tags: []
+user_id: max

@@ -1,0 +1,38 @@
+artifact_path: model
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.8.10
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 2.1.4
+mlflow_version: 2.17.2
+model_size_bytes: 227008
+model_uuid: e49b9bf0481d4bed8e3357679c9086f1
+run_id: 415081a0defb440d992c374e0763eb98
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "alcohol", "required": true}, {"type": "double",
+    "name": "malic_acid", "required": true}, {"type": "double", "name": "ash", "required":
+    true}, {"type": "double", "name": "alcalinity_of_ash", "required": true}, {"type":
+    "double", "name": "magnesium", "required": true}, {"type": "double", "name": "total_phenols",
+    "required": true}, {"type": "double", "name": "flavanoids", "required": true},
+    {"type": "double", "name": "nonflavanoid_phenols", "required": true}, {"type":
+    "double", "name": "proanthocyanins", "required": true}, {"type": "double", "name":
+    "color_intensity", "required": true}, {"type": "double", "name": "hue", "required":
+    true}, {"type": "double", "name": "od280/od315_of_diluted_wines", "required":
+    true}, {"type": "double", "name": "proline", "required": true}]'
+  outputs: '[{"type": "integer", "required": true}]'
+  params: null
+utc_time_created: '2025-05-06 11:36:20.642069'

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/235119eb97b4443594a917fb7cba2c35/artifacts
+deleted_time: 1746530436154
+end_time: 1746529901279
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: deleted
+run_id: 235119eb97b4443594a917fb7cba2c35
+run_name: rogue-jay-852
+run_uuid: 235119eb97b4443594a917fb7cba2c35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746529900017
+status: 4
+tags: []
+user_id: max

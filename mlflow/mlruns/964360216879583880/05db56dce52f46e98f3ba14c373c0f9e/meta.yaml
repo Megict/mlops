@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/05db56dce52f46e98f3ba14c373c0f9e/artifacts
+deleted_time: 1746530426297
+end_time: 1746530023343
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: deleted
+run_id: 05db56dce52f46e98f3ba14c373c0f9e
+run_name: dashing-bat-125
+run_uuid: 05db56dce52f46e98f3ba14c373c0f9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746530021170
+status: 4
+tags: []
+user_id: max

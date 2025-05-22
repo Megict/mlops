@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/0/2bfd205826ba450e8afe1670caced80b/artifacts
+end_time: 1746032683029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bfd205826ba450e8afe1670caced80b
+run_name: welcoming-whale-595
+run_uuid: 2bfd205826ba450e8afe1670caced80b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746032674871
+status: 3
+tags: []
+user_id: max

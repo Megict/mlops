@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/964360216879583880/8b135514ac52443693ede238117c04af/artifacts
+end_time: 1746530345497
+entry_point_name: ''
+experiment_id: '964360216879583880'
+lifecycle_stage: active
+run_id: 8b135514ac52443693ede238117c04af
+run_name: handsome-seal-648
+run_uuid: 8b135514ac52443693ede238117c04af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746530344104
+status: 3
+tags: []
+user_id: max

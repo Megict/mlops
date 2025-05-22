@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/0/a1f5fcb1f1ed45b5a05ceb4945dd754f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1f5fcb1f1ed45b5a05ceb4945dd754f
+run_name: bustling-hound-837
+run_uuid: a1f5fcb1f1ed45b5a05ceb4945dd754f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746031373397
+status: 1
+tags: []
+user_id: max

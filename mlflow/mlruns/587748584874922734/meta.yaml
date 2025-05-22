@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/max/Desktop/mlops/mlruns/587748584874922734
+creation_time: 1746032035281
+experiment_id: '587748584874922734'
+last_update_time: 1746032035281
+lifecycle_stage: active
+name: Wine_Quality_Prediction

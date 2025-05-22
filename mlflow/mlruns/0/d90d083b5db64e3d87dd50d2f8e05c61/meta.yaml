@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/max/Desktop/mlops/mlruns/0/d90d083b5db64e3d87dd50d2f8e05c61/artifacts
+end_time: 1746032755489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d90d083b5db64e3d87dd50d2f8e05c61
+run_name: learned-cod-408
+run_uuid: d90d083b5db64e3d87dd50d2f8e05c61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746032747816
+status: 3
+tags: []
+user_id: max
