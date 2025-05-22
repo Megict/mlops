@@ -1,6 +1,8 @@
 ## Провект terraform
 
 Ниже приведены скриншоты процесса создания бакета с помощью terraform. В процессе создается сервисный аккаунт, ключи шифрования и S3 бакет.
+
+
 ![изображение](https://github.com/user-attachments/assets/d95b81e3-ff03-44d7-91b0-f0271b50aa24)
 ![изображение](https://github.com/user-attachments/assets/5adc0e07-b20d-4d79-b20d-755f894898c0)
 ![изображение](https://github.com/user-attachments/assets/38a2ec7f-7e51-49ee-8752-85be2d3f6c7d)
